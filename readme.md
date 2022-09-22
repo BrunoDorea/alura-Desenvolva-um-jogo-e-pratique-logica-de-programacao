@@ -3,7 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>
+  <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">📝 License</a>
 </p>
 
 <p align="center">
@@ -14,6 +16,15 @@
 
 Projeto criado para o curso "Javascript e HTML: Desenvolva um jogo e pratique lógica de programação" da Alura.
 
-## 📚 Tópicos abordados
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- Javascript
+
+## 📝 License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
